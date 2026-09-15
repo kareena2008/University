@@ -9,8 +9,9 @@
     width: 100%;
     background-image: url(Images/background.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: fill;
     position: relative; 
+ 
 }
 
 
